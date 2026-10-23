@@ -1,0 +1,11 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and generated files: download the data from PhysioNet instead
+physionet.org/
+*.psv
+*.pkl
+results_v3_*/
+split_manifest_*.csv
